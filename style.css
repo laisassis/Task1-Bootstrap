@@ -1,4 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&family=Open+Sans&family=Urbanist:ital,wght@1,300&display=swap');
+
+
+a {
+    font-family: 'Urbanist', sans-serif;
+    font-size: 1.2rem;
+}
+
+p{
+    font-family: 'Klee One', cursive;
+}
+
+h1 {
+    font-family: 'Klee One', cursive;
+
+}
+h2 {
+    text-transform: uppercase;
+    font-family: 'Urbanist', sans-serif;
+ 
+}
+
+h3{
+    font-family: 'Urbanist', sans-serif;
+}
+
+ h3 span {
+    color: #a72a96;
+}
+
+
+.textbody{
+    font-family: 'Klee One', cursive;
+
+}
+
+.centralizar-menu{
+    margin: 0 auto;
+}
+
+.cornavbar {
+    background-color: #7e3c40;
+}
+
+.botaonavbar {
+    background-color: #ffffff;
+    color: #156144;
+    padding: 9px 12px;
+    border-radius: 8px;
+    font-family: 'Urbanist', sans-serif;
+}
+
+.botaonavbar:hover{
+    color: #fff3e6;
+    background-color: #ffffff;
+    transition: 0.2s;
+}
+.espacamentocards{
+    padding-top: 5rem;
+} 
+
+.espacamentocards2{
+    padding-top: 2rem;
+} 
+
+
+.bg-footer{
+    background-color:#7e3c40
+}
+
 .tm-social{
     width: 50px;
     height: 50px;
+}
+
+.ml-50{
+    margin-left: 50px;
 }
